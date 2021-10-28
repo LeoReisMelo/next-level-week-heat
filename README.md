@@ -53,5 +53,5 @@ execute yarn dev ou npm run dev no terminal
 
 ° [NodeJS](https://nodejs.org/en/)<br/>
 ° [Typescript](https://typescriptlang.org/)<br/>
-° [ReactJS](https://www.prisma.io/)
+° [ReactJS](https://www.prisma.io/)<br/>
 ° [React Native](https://www.prisma.io/)
